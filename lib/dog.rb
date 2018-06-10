@@ -11,6 +11,7 @@ class Dog
   def name
     "#{@name}".strip
   end
+
   def bark
     puts "woof!"
   end
